@@ -1,6 +1,6 @@
 Environment:
 
-Docker containers were used for this project. MinIO(compose file service name: minio), Spark(compose file service name: spark_client) and Airflow(compose file service name: airflow_scheduler) were seperate services in the docker-compose file.
+Docker containers were used for this project. MinIO(compose file service name: minio), Spark(compose file service name: spark_client) and Airflow(compose file service name: airflow_scheduler) were separate services in the docker-compose file.
 
 Content:
 
