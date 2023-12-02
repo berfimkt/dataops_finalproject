@@ -29,3 +29,6 @@ These datasets come into object storage at regular intervals in a batch manner.
 
 - Create a pipeline with Airflow to meet the above requirements.
 - Pipeline should run daily.
+
+
+Start by reading the final_project_steps file first.
