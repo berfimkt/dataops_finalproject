@@ -1,3 +1,9 @@
+Environment:
+
+Docker containers were used for this project. MinIO(compose file service name: minio), Spark(compose file service name: spark_client) and Airflow(compose file service name: airflow_scheduler) were seperate services in the docker-compose file.
+
+Content:
+
 VBO Data Engineering Bootcamp Final Project-4: Airflow/Delta Lake
 
 - Use this dataset: https://github.com/erkansirin78/datasets/raw/master/tmdb_5000_movies_and_credits.zip
