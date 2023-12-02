@@ -23,7 +23,7 @@ These datasets come into object storage at regular intervals in a batch manner.
 
 2. Data transformation
 
-At this stage, the raw data in the bronze layer is converted and written into the silver layer `tmdb-silver/<table_name>` bucket in the form of delta tables.
+At this stage, the raw data in the bronze layer is converted(using spark) and written into the silver layer `tmdb-silver/<table_name>` bucket in the form of delta tables.
 
 3. Pipeline
 
