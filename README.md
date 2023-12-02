@@ -15,7 +15,7 @@ There are two different datasets in this zip file.
 
 These datasets come into object storage at regular intervals in a batch manner.
 
-1. Data Ingestion
+1. Data ingestion
 
 - At this stage, the datasets should be generated into the `tmdb-bronze` bucket representing the bronze layer (with data-generator).
 - You can use MinIO as object storage with docker.
